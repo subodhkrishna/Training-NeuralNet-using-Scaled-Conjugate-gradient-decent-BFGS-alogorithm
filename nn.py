@@ -164,3 +164,4 @@ plt.ylabel("Cost")
 plt.legend(loc='upper left')
 plt.xlabel("Iterations")
 plt.show()
+#improve learning
